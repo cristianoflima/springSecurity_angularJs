@@ -1,0 +1,16 @@
+.centre{
+	text-align: center
+}
+
+.contraste{
+	background: #a1d0e7;
+	padding: 10px;
+}
+
+body {
+	background: #729fcf;
+}
+
+h1{
+	color: #fff;
+}
